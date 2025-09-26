@@ -1,30 +1,38 @@
-# Cleaning Agency 
+# 🧹 Cleaning Agency Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A professional, modern, and responsive cleaning agency website designed to showcase services, build client trust, and allow potential customers to request cleaning appointments online.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ukasamuel04-gmailcoms-projects/v0-cleaning-company-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/HWp1YkR2wZv)
 
-## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## 🌟 Overview
+This project is a fully responsive website built for a cleaning agency to present its services, pricing, and contact information in a professional and user-friendly way.  
+The goal is to provide customers with a smooth booking process and make the agency stand out online.
 
-Your project is live at:
+---
 
-**[https://vercel.com/ukasamuel04-gmailcoms-projects/v0-cleaning-company-website](https://vercel.com/ukasamuel04-gmailcoms-projects/v0-cleaning-company-website)**
+## ✨ Features
+- **Responsive Design** – Works perfectly on desktop, tablet, and mobile devices.  
+- **Services Showcase** – Clearly displays all cleaning services offered.  
+- **Booking Form** – Customers can request cleaning services directly from the website.  
+- **Testimonials Section** – Build trust with client feedback.  
+- **Contact Information & Google Maps Integration**  
+- **SEO-Friendly** – Optimized for search engines.
 
-## Build your app
+---
 
-Continue building your app on:
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Deployment:** Vercel / Netlify
 
-**[https://v0.app/chat/projects/HWp1YkR2wZv](https://v0.app/chat/projects/HWp1YkR2wZv)**
+---
 
-## How It Works
+## ⚙️ Installation
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/priestooo/cleaning-agency.git
+   view on https://v0.app/chat/cleaning-company-website-p0fivsMtjQc
