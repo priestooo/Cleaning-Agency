@@ -1,4 +1,5 @@
 # 🧹 Cleaning Agency Website
+<img src="./banner5.jpg"/>
 
 A professional, modern, and responsive cleaning agency website designed to showcase services, build client trust, and allow potential customers to request cleaning appointments online.
 
